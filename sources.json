@@ -1,0 +1,12 @@
+[
+  {"name":"Devoteam Morocco / SmartRecruiters","type":"smartrecruiters","company":"Devoteam","country":"ma","enabled":true,"terms":"https://developers.smartrecruiters.com/docs/endpoints"},
+  {"name":"Remotive","type":"remotive","enabled":true,"terms":"https://github.com/remotive-com/remote-jobs-api"},
+  {"name":"Morocco company research","type":"prospects","enabled":true,"companies":[
+    {"company":"Inetum Maroc","location":"Casablanca, Morocco","url":"https://www.inetum.com/global/en/careers/1f4138ad-91a0-4269-b10f-5a923287599f.html","verified_on":"2026-11-04","note":"Inetum Maroc publishes a spontaneous applications page for technical and functional roles. Check whether a six-month PFE is available; internship availability is unconfirmed."},
+    {"company":"SQLI Maroc","location":"Rabat, Casablanca, Morocco","url":"https://www.sqli.com/fr-fr/locations/maroc","verified_on":"2026-11-04","note":"SQLI has software development teams and career listings in Morocco. Research its early-career routes and verify current PFE requirements. This directory entry is not a vacancy."},
+    {"company":"Devoteam Maroc","location":"Rabat, Casablanca, Morocco","url":"https://www.devoteam.com/fr-ma/jobs/","verified_on":"2026-11-04","note":"Devoteam's Morocco careers page includes cloud, DevOps and security work areas. Explore its promising-talent filter and ask about PFE eligibility; no specific internship is claimed by this directory entry."}
+  ]},
+  {"name":"Your permitted RSS feed","type":"rss","enabled":false,"url":"","permission_confirmed":false,"permission_url":"","job_feed":true},
+  {"name":"Your permitted career page","type":"jsonld","enabled":false,"url":"","permission_confirmed":false,"permission_url":""},
+  {"name":"Your Lever company","type":"lever","enabled":false,"company":"","region":"global","terms":"https://github.com/lever/postings-api"}
+]
